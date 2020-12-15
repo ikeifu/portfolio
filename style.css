@@ -1,0 +1,9 @@
+.panel {
+  max-width: 100%;
+}
+.panel-text {
+  word-wrap: break-word;
+}
+.container {
+  text-align: center;
+}
